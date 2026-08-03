@@ -36,8 +36,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RobsonLost&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-  <img height="160" src="https://streak-stats.demolab.com?user=RobsonLost&hide_border=true"/>
+  <img width="45%" src="https://raw.githubusercontent.com/RobsonLost/github-stats/generated/generated/overview.svg"/>
+  <img width="45%" src="https://raw.githubusercontent.com/RobsonLost/github-stats/generated/generated/languages.svg"/>
 </p>
 
 ### 📫 Contato

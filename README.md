@@ -1,140 +1,46 @@
-<h1 align="center">Olá! Eu sou Robson</h1>
+<h1 align="center">Olá, eu sou Robson 👋</h1>
+<h3 align="center">Técnico de Suporte N2 • Estudante de ADS • Rumo a Infra/Cloud & Cybersecurity</h3>
 
-<h3 align="center">
-Analista de Suporte de TI • Estudante de ADS • Futuro Analista de Dados & Cybersecurity
-</h3>
+<p align="center">
+  Mais de <b>8 anos</b> de experiência em suporte técnico N1/N2 em ambientes corporativos, hoje em transição para infraestrutura, cloud e segurança.
+</p>
 
----
-
-## 🚀 Sobre mim
-
-Sou profissional de Tecnologia da Informação com mais de **8 anos de experiência** em suporte técnico N1/N2, atuando em ambientes corporativos de grande porte.
-
-Atualmente trabalho com:
-
-- 💻 Suporte Técnico Corporativo
-- 🖥️ Windows 10/11
-- ☁️ Microsoft 365
-- 🔐 Azure AD / Entra ID
-- 📱 Microsoft Intune
-- 🌐 Redes e Infraestrutura
-- 🛠️ ServiceNow
-- 🔒 Microsoft Defender
-
-Além da experiência em suporte, estou direcionando minha carreira para áreas de maior especialização, estudando diariamente:
-
-- 🐍 Python
-- 📊 Análise de Dados
-- 🛡️ Cybersecurity
-- ☁️ Cloud Computing
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intune-0089D6?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ---
 
-## 🎓 Formação
+### 🎯 Foco atual
 
-🎓 Análise e Desenvolvimento de Sistemas (ADS)
+`Python` · `SQL` · `Power BI` · `Análise de Dados` · `Cybersecurity (SOC/Blue Team)` · `Cloud`
 
-Atualmente aprofundando conhecimentos em:
+🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
 
-- Lógica de Programação
-- Estrutura de Dados
-- Banco de Dados
-- Desenvolvimento de Software
-- Engenharia de Software
+### 🛠️ Stack & ferramentas
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Defender-00A4EF?style=flat-square&logo=microsoftdefender&logoColor=white"/>
+</p>
 
-## 📚 Atualmente estudando
+### 📊 GitHub Stats
 
-### 🐍 Python
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=RobsonLost&show_icons=true&theme=default&hide_border=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=RobsonLost&hide_border=true"/>
+</p>
 
-- Automação
-- Manipulação de Dados
-- APIs
-- Pandas
-- NumPy
+### 📫 Contato
 
----
-
-### 📊 Análise de Dados
-
-- Excel
-- SQL
-- Power BI
-- Python para Dados
-- Visualização de Dados
-
----
-
-### 🛡️ Cybersecurity
-
-- Fundamentos de Segurança
-- Redes
-- Linux
-- SIEM
-- Blue Team
-- SOC
-- Vulnerabilidades
-
----
-
-## 🎯 Objetivos
-
-Atualmente este GitHub será utilizado para registrar toda minha evolução profissional.
-
-Ao longo dos próximos meses você encontrará projetos relacionados a:
-
-- Python
-- Automações
-- Power BI
-- SQL
-- Análise de Dados
-- Cybersecurity
-- Cloud
-- Scripts para Infraestrutura
-- Estudos da Faculdade
-
----
-
-## 🛠️ Tecnologias
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
-
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft)
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
----
-
-## 📈 Em constante evolução
-
-✔ Faculdade de ADS
-
-✔ Python
-
-✔ SQL
-
-✔ Power BI
-
-✔ Cybersecurity
-
-✔ Cloud Computing
-
----
-
-## 📫 Vamos nos conectar?
-
-- 💼 LinkedIn: https://www.linkedin.com/in/robsongjunior/
-- 📧 Email: robson.lost@outlook.com
-
-Obrigado pela visita! 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robsongjunior/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:robson.lost@outlook.com)

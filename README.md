@@ -38,6 +38,19 @@
 
 ---
 
+### 🌌 Registros da tripulação
+
+Este repositório é meu diário de bordo: aqui eu registro a evolução dos meus estudos e projetos pessoais, incluindo:
+
+- 🎓 Projetos e exercícios da faculdade (Análise e Desenvolvimento de Sistemas)
+- 🛡️ Cursos paralelos em **Segurança da Informação** e **Cybersecurity**
+- 📜 Estudos e projetos relacionados à **LGPD**
+- 🧪 Experimentos pessoais em Python, automação e dados
+
+Considere este espaço um log de missão em constante atualização — sempre há um novo módulo sendo explorado.
+
+---
+
 ### 📫 Frequência de contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFE81F)](https://www.linkedin.com/in/robsongjunior/)

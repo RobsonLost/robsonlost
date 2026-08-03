@@ -1,46 +1,46 @@
-<h1 align="center">Olá, eu sou Robson 👋</h1>
-<h3 align="center">Técnico de Suporte N2 • Estudante de ADS • Rumo a Infra/Cloud & Cybersecurity</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=180&section=header&text=Robson%20Junior&fontSize=45&fontColor=FFE81F&fontAlignY=40&animation=fadeIn&desc=Que%20a%20For%C3%A7a%20esteja%20com%20o%20seu%20c%C3%B3digo&descAlignY=62&descSize=16&descColor=FFE81F" width="100%"/>
 
 <p align="center">
-  Mais de <b>8 anos</b> de experiência em suporte técnico N1/N2 em ambientes corporativos, hoje em transição para infraestrutura, cloud e segurança.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Intune-0089D6?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=20&duration=3500&pause=1000&color=FFE81F&center=true&vCenter=true&width=650&lines=T%C3%A9cnico+de+Suporte+N2+%E2%80%A2+8%2B+anos+de+experi%C3%AAncia;Em+transi%C3%A7%C3%A3o+para+Infraestrutura+%2F+Cloud;Estudando+Cybersecurity+%2F+Blue+Team+%2F+SOC;Cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🎯 Foco atual
+### 📡 Transmissão do Setor Duque de Caxias
+
+> *Há muito tempo, em um datacenter bem distante...* um técnico de suporte decidiu expandir seus domínios rumo à infraestrutura, à nuvem e à segurança digital. Mais de **8 anos** enfrentando incidentes, tickets e crises — e nenhum ainda foi páreo para ele.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=FFE81F"/>
+  <img src="https://img.shields.io/badge/Microsoft_365-000000?style=for-the-badge&logo=microsoft365&logoColor=FFE81F"/>
+  <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=FFE81F"/>
+  <img src="https://img.shields.io/badge/Intune-000000?style=for-the-badge&logo=microsoft&logoColor=FFE81F"/>
+  <img src="https://img.shields.io/badge/ServiceNow-000000?style=for-the-badge&logo=servicenow&logoColor=FFE81F"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFE81F"/>
+</p>
+
+---
+
+### 🛠️ Arsenal Jedi
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FFE81F"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=FFE81F"/>
+  <img src="https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=FFE81F"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=FFE81F"/>
+  <img src="https://img.shields.io/badge/Active_Directory-000000?style=flat-square&logo=microsoft&logoColor=FFE81F"/>
+  <img src="https://img.shields.io/badge/Defender-000000?style=flat-square&logo=microsoftdefender&logoColor=FFE81F"/>
+</p>
+
+### 🎯 Próxima missão
 
 `Python` · `SQL` · `Power BI` · `Análise de Dados` · `Cybersecurity (SOC/Blue Team)` · `Cloud`
 
-🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
+---
 
-### 🛠️ Stack & ferramentas
+### 📫 Frequência de contato
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Defender-00A4EF?style=flat-square&logo=microsoftdefender&logoColor=white"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFE81F)](https://www.linkedin.com/in/robsongjunior/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFE81F)](mailto:robson.lost@outlook.com)
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img width="45%" src="https://raw.githubusercontent.com/RobsonLost/github-stats/generated/generated/overview.svg"/>
-  <img width="45%" src="https://raw.githubusercontent.com/RobsonLost/github-stats/generated/generated/languages.svg"/>
-</p>
-
-### 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robsongjunior/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:robson.lost@outlook.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=100&section=footer" width="100%"/>

@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou Robson</h1>
+<h1 align="center">Olá! Eu sou Robson</h1>
 
 <h3 align="center">
 Analista de Suporte de TI • Estudante de ADS • Futuro Analista de Dados & Cybersecurity
@@ -134,7 +134,7 @@ Ao longo dos próximos meses você encontrará projetos relacionados a:
 
 ## 📫 Vamos nos conectar?
 
-- 💼 LinkedIn: *(adicione seu link)*
-- 📧 Email: *(adicione seu email)*
+- 💼 LinkedIn: https://www.linkedin.com/in/robsongjunior/
+- 📧 Email: robson.lost@outlook.com
 
-Obrigado pela visita! 🚀
+Obrigado pela visita! 

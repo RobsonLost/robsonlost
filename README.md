@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=180&section=header&text=Robson%20Junior&fontSize=45&fontColor=FFE81F&fontAlignY=40&animation=fadeIn&desc=Que%20a%20For%C3%A7a%20esteja%20com%20o%20seu%20c%C3%B3digo&descAlignY=62&descSize=16&descColor=FFE81F" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=180&section=header&text=Robson%20Junior&fontSize=45&fontColor=FFE81F&fontAlignY=40&animation=fadeIn&desc=Que%20a%20For%C3%A7a%20esteja%20com%20o%20seu%20c%C3%B3digo&descAlignY=62&descSize=16&descColor=FFE81F&fontFamily=Courier%20New" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=20&duration=3500&pause=1000&color=FFE81F&center=true&vCenter=true&width=650&lines=T%C3%A9cnico+de+Suporte+N2+%E2%80%A2+8%2B+anos+de+experi%C3%AAncia;Em+transi%C3%A7%C3%A3o+para+Infraestrutura+%2F+Cloud;Estudando+Cybersecurity+%2F+Blue+Team+%2F+SOC;Cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=24&duration=3500&pause=1000&color=FFE81F&center=true&vCenter=true&width=650&lines=T%C3%A9cnico+de+Suporte+N2+%E2%80%A2+8%2B+anos+de+experi%C3%AAncia;Em+transi%C3%A7%C3%A3o+para+Infraestrutura+%2F+Cloud;Estudando+Cybersecurity+%2F+Blue+Team+%2F+SOC;Cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas" alt="Typing SVG" />
 </p>
 
 ---
@@ -48,12 +48,3 @@ Este repositório é meu diário de bordo: aqui eu registro a evolução dos meu
 - 🧪 Experimentos pessoais em Python, automação e dados
 
 Considere este espaço um log de missão em constante atualização — sempre há um novo módulo sendo explorado.
-
----
-
-### 📫 Frequência de contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFE81F)](https://www.linkedin.com/in/robsongjunior/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFE81F)](mailto:robson.lost@outlook.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=100&section=footer" width="100%"/>

@@ -1,346 +1,125 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Robson+Lost+%F0%9F%91%8B;Analista+de+Suporte+N2+%F0%9F%96%A5%EF%B8%8F;Infraestrutura+%7C+Microsoft+365+%7C+Intune;Python+%7C+APIs+%7C+Intelig%C3%AAncia+Artificial;Construindo+solu%C3%A7%C3%B5es+inteligentes+para+TI+%F0%9F%A4%96" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=ROBSON%20GIVALDO&fontColor=FFE81F&fontSize=42&fontAlignY=35&desc=N2%20Support%20%7C%20ServiceNow%20%7C%20M365%20%2F%20Azure%20AD%20%7C%20SAP%20%7C%20Redes&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
 
-<br>
-
-<a href="https://github.com/RobsonLost">
-<img src="https://img.shields.io/github/followers/RobsonLost?label=Seguidores&style=for-the-badge&logo=github">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&pause=1000&color=FFE81F&center=true&vCenter=true&width=900&lines=May+the+uptime+be+with+you...;N2+Support+Technician+%40+TIVIT+(Coca-Cola+Andina);ServiceNow+%7C+Microsoft+365+%7C+Azure+AD+(Entra+ID);Intune+%7C+Defender+%7C+Active+Directory+%7C+SAP;Rede%3A+VLAN+%7C+DHCP+%7C+DNS+%7C+Switches+%7C+APs;Aprendendo+Python+%2B+Power+BI+todos+os+dias;Estudante+de+ADS+na+Anhanguera+(2026)" alt="Typing SVG" />
 </a>
 
-<a href="https://github.com/RobsonLost?tab=repositories">
-<img src="https://img.shields.io/github/stars/RobsonLost?style=for-the-badge&logo=github&label=Stars">
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<img src="https://komarev.com/ghpvc/?username=RobsonLost&label=VISITANTES+DO+HOLOCRON&color=FFE81F&style=for-the-badge&labelColor=000000" alt="Contador de visitas"/>
+<img src="https://img.shields.io/github/followers/RobsonLost?label=ALIADOS&style=for-the-badge&logo=github&color=FFE81F&labelColor=000000" alt="Seguidores"/>
+<img src="https://img.shields.io/badge/STATUS-EM%20MISSÃO-FFE81F?style=for-the-badge&labelColor=000000" alt="Status"/>
 
 </div>
 
 ---
 
+## 👨‍🔧 Sobre mim
+
+Sou **Robson Givaldo da Silva Junior**, Técnico de Suporte N2 com mais de **8 anos de experiência**, atualmente atuando na **TIVIT**, dando suporte ao cliente **Coca-Cola Andina** em Duque de Caxias, RJ.
+
+Minha missão é resolver incidentes com precisão de piloto de X-wing: rápido, sob pressão e sem deixar sistema crítico cair. Curso **Tecnólogo em Análise e Desenvolvimento de Sistemas** na Anhanguera, evoluindo de suporte para desenvolvimento e automação.
+
+- 🛰️ Suporte N2 de infraestrutura Microsoft (M365, Azure AD/Entra ID, Intune, Defender, AD)
+- 🧾 SAP GUI, troubleshooting de ambientes corporativos e diagnósticos avançados
+- 🌐 Redes corporativas: VLAN, DHCP, DNS, switches e Access Points
+- 🐍 Aprendendo Python aplicado a automações e projetos com IA
+- 📊 Explorando Power BI para transformar dados de suporte em insight
+- 🎓 Formação em ADS (EAD) — construindo a ponte entre suporte e desenvolvimento
+
+---
+
+## 🧰 Arsenal Tecnológico
+
 <div align="center">
 
-# 👨‍💻 Sobre mim
+<img src="https://skillicons.dev/icons?i=windows,linux,python,azure,git,github,powerbi&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ServiceNow-FFE81F?style=for-the-badge&logo=servicenow&logoColor=000000" />
+<img src="https://img.shields.io/badge/Microsoft%20365-FFE81F?style=for-the-badge&logo=microsoft365&logoColor=000000" />
+<img src="https://img.shields.io/badge/Azure%20AD%20(Entra%20ID)-FFE81F?style=for-the-badge&logo=microsoftazure&logoColor=000000" />
+<img src="https://img.shields.io/badge/Microsoft%20Intune-FFE81F?style=for-the-badge&logo=microsoft&logoColor=000000" />
+<img src="https://img.shields.io/badge/Microsoft%20Defender-FFE81F?style=for-the-badge&logo=windowsdefender&logoColor=000000" />
+<img src="https://img.shields.io/badge/Active%20Directory-FFE81F?style=for-the-badge&logo=windows&logoColor=000000" />
+<img src="https://img.shields.io/badge/SAP-FFE81F?style=for-the-badge&logo=sap&logoColor=000000" />
 
 </div>
 
-Sou profissional de **Tecnologia da Informação com mais de 8 anos de experiência**, atuando principalmente em **Suporte Técnico N2, Infraestrutura e ambientes corporativos de grande porte**.
+---
 
-Minha experiência envolve troubleshooting, sustentação de ambientes Windows, Microsoft 365, Intune, Azure/Entra ID, redes e ferramentas de ITSM.
+## 🎖️ Formação & Credenciais
 
-Atualmente estou expandindo minha atuação para **desenvolvimento, Python, APIs, Inteligência Artificial e automação**, buscando transformar problemas reais encontrados no dia a dia de TI em soluções tecnológicas.
+- 🎓 **Tecnólogo em ADS** — Anhanguera (EAD) · *Iniciado em mar/2026*
+- 🛠️ **8+ anos** em Suporte Técnico N2 · ServiceNow, Microsoft 365, SAP, Redes
+- ☁️ Trilha em construção: **AZ-900 / SC-900** (Cloud & Segurança)
+- 🐍 Primeiro projeto Python + API: classificador de incidentes ServiceNow (LLM)
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│                    ROBSON LOST                           │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  🖥️  IT Support N2                                      │
-│  🌐  Infrastructure                                     │
-│  ☁️  Microsoft 365 / Intune / Azure                     │
-│  🔧  Troubleshooting & ITSM                              │
-│  🐍  Python                                              │
-│  🔌  REST APIs                                           │
-│  🤖  Artificial Intelligence                             │
-│  ⚙️  Automation                                          │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+---
+
+## 🚀 Projetos em destaque
+
+- 🪐 **[Chá de Panela Star Wars](#)**
+  Site em **React (Vite + Tailwind CSS)** para o chá de panela do meu casamento, com lista de presentes e pagamento via **Pix** integrado, desenvolvido com apoio do Antigravity.
+  `React` `Vite` `Tailwind` `Pix API`
+
+- 🤖 **ServiceNow Incident Classifier**
+  Projeto de classificação automática de incidentes com **Python + LLM API**, construído a partir de uma base real de 500+ chamados anonimizados.
+  `Python` `LLM API` `ServiceNow` `Automação`
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RobsonLost&show_icons=true&hide_border=true&bg_color=000000&title_color=FFE81F&text_color=FFFFFF&icon_color=FFE81F&ring_color=FFE81F" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonLost&layout=compact&hide_border=true&bg_color=000000&title_color=FFE81F&text_color=FFFFFF&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RobsonLost&bg_color=000000&color=FFE81F&line=FFE81F&point=FFFFFF&area=true&area_color=0EA5E9&hide_border=true&radius=16" />
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RobsonLost/RobsonLost/output/github-contribution-grid-snake.svg" />
+
+<sub><i>Para essa animação funcionar, é preciso configurar a GitHub Action "snake" no seu repositório de perfil — te explico como logo abaixo.</i></sub>
+
+</div>
+
+---
+
+## 🛰️ Tech Mission
+
+```
+🎧 SUPPORT MISSION   → resolver incidentes N2 com excelência e rapidez
+💻 DEV MISSION        → transformar suporte em automação e código real
+☁️ CLOUD MISSION       → evoluir em Azure e certificações AZ-900 / SC-900
+🤖 AI MISSION          → aplicar IA e Python em soluções de suporte
+📈 CAREER MISSION      → crescer de N2 para Pleno/Sênior em Infraestrutura
 ```
 
 ---
 
-<div align="center">
-
-# 🧰 Tech Stack
-
-### 🖥️ Infrastructure & Support
-
-<img src="https://skillicons.dev/icons?i=windows,azure,microsoft,git,github" />
-
-<br><br>
-
-### 🌐 Networking
-
-<img src="https://skillicons.dev/icons?i=cisco" />
-
-<br><br>
-
-### 🐍 Development & Automation
-
-<img src="https://skillicons.dev/icons?i=python,git,github" />
-
-<br><br>
-
-### 🤖 AI & APIs
-
-<img src="https://skillicons.dev/icons?i=python,openai" />
-
-</div>
-
----
+## 🤝 Vamos conectar
 
 <div align="center">
 
-# 🤖 AI & Automation
+<img src="https://img.shields.io/badge/LinkedIn-Robson%20Givaldo-000000?style=for-the-badge&logo=linkedin&logoColor=FFE81F" />
+<img src="https://img.shields.io/badge/GitHub-RobsonLost-000000?style=for-the-badge&logo=github&logoColor=FFE81F" />
+
+<br/><br/>
+
+<i>"Que a Força esteja com o seu uptime."</i>
 
 </div>
 
-### Transformando experiência de Service Desk em soluções inteligentes.
-
-Estou estudando e desenvolvendo projetos utilizando **Inteligência Artificial, Python e APIs**, com foco em aplicações práticas para ambientes de TI.
-
-```text
-                 EXPERIENCE
-                     │
-                     ▼
-             ┌───────────────┐
-             │  IT SUPPORT   │
-             └───────┬───────┘
-                     │
-                     ▼
-              AUTOMATION
-                     │
-                     ▼
-              ┌───────────────┐
-              │    PYTHON     │
-              └───────┬───────┘
-                     │
-                     ▼
-               REST APIs
-                     │
-                     ▼
-              ┌───────────────┐
-              │      AI       │
-              └───────┬───────┘
-                     │
-                     ▼
-          🚀 SMART IT SOLUTIONS
-```
-
----
-
-# 🚀 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/RobsonLost/assistente-ia-service-desk">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RobsonLost&repo=assistente-ia-service-desk&theme=tokyonight&hide_border=true">
-
-</a>
-
-</div>
-
-## 🤖 AI Service Desk Assistant
-
-Projeto criado a partir da minha experiência profissional em **Service Desk e suporte técnico**.
-
-A proposta é utilizar Inteligência Artificial para auxiliar profissionais de suporte na análise de incidentes e troubleshooting.
-
-### 🎯 Objetivos
-
-* 🧠 Analisar incidentes utilizando IA
-* 🔎 Identificar possíveis causas
-* 🛠️ Sugerir procedimentos de troubleshooting
-* 📚 Utilizar conhecimento técnico como contexto
-* 🔌 Integrar APIs de Inteligência Artificial
-* ⚙️ Automatizar tarefas repetitivas
-* 🚀 Evoluir para uma ferramenta completa de apoio ao Service Desk
-
-### 🛠️ Em desenvolvimento
-
-`Python` `OpenAI API` `REST API` `Git` `GitHub` `AI`
-
----
-
-# 🎓 Education
-
-### 🎓 Análise e Desenvolvimento de Sistemas
-
-**Anhanguera**
-
-Atualmente desenvolvendo conhecimentos em:
-
-`Programação` · `Engenharia de Software` · `Redes` · `Segurança` · `Inteligência Artificial` · `Desenvolvimento`
-
----
-
-# 💼 Professional Experience
-
-### 🖥️ Técnico de Suporte N2
-
-Experiência em ambientes corporativos de grande porte, atuando com:
-
-* Windows 10/11
-* Microsoft 365
-* Microsoft Intune
-* Azure / Microsoft Entra ID
-* Microsoft Defender
-* SAP Secure Login
-* ServiceNow ITSM
-* Cisco
-* Fortinet
-* DNS / DHCP
-* VLAN
-* Wi-Fi
-* Troubleshooting de rede
-* Hardware e software
-* Gestão de incidentes
-* Análise de problemas de maior complexidade
-
----
-
-<div align="center">
-
-# 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobsonLost&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=tokyonight">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonLost&layout=compact&langs_count=8&hide_border=true&theme=tokyonight">
-
-</div>
-
----
-
-<div align="center">
-
-# 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=RobsonLost&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7">
-
-</div>
-
----
-
-<div align="center">
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RobsonLost&theme=tokyo-night&hide_border=true&area=true">
-
-</div>
-
----
-
-<div align="center">
-
-# 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/RobsonLost/RobsonLost/output/github-contribution-grid-snake.svg" alt="Snake animation">
-
-</div>
-
----
-
-# 🛰️ My Tech Mission
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                    TECH MISSION                     ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  🖥️  SUPPORT                                         ║
-║      Evoluir como especialista em suporte e          ║
-║      infraestrutura de TI                            ║
-║                                                      ║
-║  ☁️  CLOUD                                           ║
-║      Aprofundar conhecimentos em Microsoft 365,      ║
-║      Azure e ambientes corporativos                  ║
-║                                                      ║
-║  🐍  DEVELOPMENT                                     ║
-║      Evoluir em Python e desenvolvimento              ║
-║                                                      ║
-║  🔌  APIs                                            ║
-║      Criar integrações e automações                   ║
-║                                                      ║
-║  🤖  ARTIFICIAL INTELLIGENCE                         ║
-║      Aplicar IA em problemas reais de TI              ║
-║                                                      ║
-║  ⚙️  AUTOMATION                                      ║
-║      Automatizar processos repetitivos                ║
-║                                                      ║
-║  🚀  FUTURE                                          ║
-║      Transformar experiência prática em TI            ║
-║      em soluções inteligentes                         ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-Intermediate/Building-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-<img src="https://img.shields.io/badge/REST%20APIs-Learning-FF6F00?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-Learning-412991?style=for-the-badge&logo=openai&logoColor=white">
-
-<img src="https://img.shields.io/badge/Automation-Learning-00A98F?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-Active-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-</div>
-
----
-
-# 🔭 Roadmap
-
-```text
-                    2026
-                      │
-                      ▼
-              ┌──────────────┐
-              │    Python    │
-              └──────┬───────┘
-                     │
-                     ▼
-              ┌──────────────┐
-              │     APIs     │
-              └──────┬───────┘
-                     │
-                     ▼
-              ┌──────────────┐
-              │      AI      │
-              └──────┬───────┘
-                     │
-                     ▼
-              ┌──────────────┐
-              │  Automation  │
-              └──────┬───────┘
-                     │
-                     ▼
-              ┌──────────────┐
-              │ AI + IT Ops  │
-              └──────────────┘
-```
-
----
-
-<div align="center">
-
-# 🤝 Let's Connect
-
-<a href="https://github.com/RobsonLost">
-<img src="https://img.shields.io/badge/GitHub-RobsonLost-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<br><br>
-
-### 💻 Building. Learning. Automating. Evolving.
-
-<img src="https://komarev.com/ghpvc/?username=RobsonLost&style=for-the-badge&color=0078D4&label=PROFILE+VIEWS">
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>

@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="banner.png" alt="Banner Robson Junior" width="100%"/>
+<!-- A imagem do banner que você fez o upload aparecerá aqui automaticamente -->
+<img src="banner.jpg" alt="Banner Robson Junior" width="70%"/>
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=850&lines=Analista+de+Suporte+N2+%F0%9F%96%A5%EF%B8%8F;Infraestrutura+%7C+Microsoft+365+%7C+Azure;Python+%7C+APIs+%7C+Intelig%C3%AAncia+Artificial;Transformando+problemas+reais+em+solu%C3%A7%C3%B5es+%F0%9F%9A%80" alt="Typing SVG"/>
@@ -81,14 +82,13 @@
 ## 🚀 Projetos em destaque
 
 <div align="center">
-
-<a href="https://github.com/RobsonLost/assistente-ia-service-desk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobsonLost&repo=assistente-ia-service-desk&theme=tokyonight&hide_border=true&title_color=00A8FF&icon_color=00A8FF" width="48%"/>
-</a>
-<a href="https://github.com/RobsonLost">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobsonLost&repo=RobsonLost&theme=tokyonight&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2" width="48%"/>
-</a>
-
+  <!-- Pins dos Projetos - Links simplificados e corrigidos -->
+  <a href="https://github.com/RobsonLost/assistente-ia-service-desk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobsonLost&repo=assistente-ia-service-desk&theme=tokyonight&hide_border=true" width="48%"/>
+  </a>
+  <a href="https://github.com/RobsonLost">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobsonLost&repo=RobsonLost&theme=tokyonight&hide_border=true" width="48%"/>
+  </a>
 </div>
 
 <br>
@@ -133,9 +133,9 @@
 <br>
 
 <div align="center">
-  <!-- Status do Github + Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RobsonLost&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonLost&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <!-- Status do Github + Linguagens - Links simplificados e corrigidos -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RobsonLost&theme=tokyonight&hide_border=true&show_icons=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonLost&theme=tokyonight&hide_border=true&layout=compact" width="48%"/>
 </div>
 
 <hr>

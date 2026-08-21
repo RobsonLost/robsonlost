@@ -140,6 +140,8 @@
 🔌 API MISSION → integrar sistemas, ITSM (ServiceNow) e modelos de IA através de APIs
 📈 CAREER BUILDING → transformar experiência prática + estudos num portfólio de peso
 
+```
+
 ## 🤝 Vamos conectar
 
 <div align="center">

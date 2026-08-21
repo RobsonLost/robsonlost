@@ -216,27 +216,3 @@ Atuação em ambiente corporativo de grande porte, trabalhando com:
 ```
 
 </div>
-
----
-
-<div align="center">
-
-# 🤝 Vamos conectar?
-
-<a href="https://github.com/RobsonLost">
-<img src="https://img.shields.io/badge/GitHub-RobsonLost-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1500&color=00A8FF&center=true&vCenter=true&width=600&lines=Building+%7C+Learning+%7C+Automating+%7C+Evolving" alt="Footer animation"/>
-
-<br>
-
-⭐ **Construindo projetos. Aprendendo tecnologias. Criando soluções.**
-
-</div>

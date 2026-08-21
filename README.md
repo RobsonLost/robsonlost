@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- A imagem do banner que você fez o upload aparecerá aqui automaticamente -->
-<img src="banner.jpg" alt="Banner Robson Junior" width="70%"/>
+<img src="banner.png" alt="Banner Robson Junior" width="70%"/>
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=850&lines=Analista+de+Suporte+N2+%F0%9F%96%A5%EF%B8%8F;Infraestrutura+%7C+Microsoft+365+%7C+Azure;Python+%7C+APIs+%7C+Intelig%C3%AAncia+Artificial;Transformando+problemas+reais+em+solu%C3%A7%C3%B5es+%F0%9F%9A%80" alt="Typing SVG"/>

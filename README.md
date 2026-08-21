@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Substitua o link abaixo pelo link da imagem gerada após fazer o upload no seu repositório (ex: ./banner.jpg) -->
-<img src="https://raw.githubusercontent.com/RobsonLost/NOME_DO_SEU_REPO_AQUI/main/banner.jpg" alt="Banner Robson Junior" width="100%"/>
+<img src="banner.png" alt="Banner Robson Junior" width="100%"/>
 <br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=850&lines=Analista+de+Suporte+N2+%F0%9F%96%A5%EF%B8%8F;Infraestrutura+%7C+Microsoft+365+%7C+Azure;Python+%7C+APIs+%7C+Intelig%C3%AAncia+Artificial;Transformando+problemas+reais+em+solu%C3%A7%C3%B5es+%F0%9F%9A%80" alt="Typing SVG"/>
@@ -86,7 +85,6 @@
 <a href="https://github.com/RobsonLost/assistente-ia-service-desk">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobsonLost&repo=assistente-ia-service-desk&theme=tokyonight&hide_border=true&title_color=00A8FF&icon_color=00A8FF" width="48%"/>
 </a>
-<!-- Quando tiver outro repositório público forte, altere o nome "RobsonLost" no campo "repo=" abaixo -->
 <a href="https://github.com/RobsonLost">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RobsonLost&repo=RobsonLost&theme=tokyonight&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2" width="48%"/>
 </a>

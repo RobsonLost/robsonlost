@@ -45,10 +45,6 @@ Atualmente estou expandindo minha atuação para **Python, desenvolvimento, inte
 
 <br><br>
 
-### 🌐 Redes & Infraestrutura
-
-<img src="https://skillicons.dev/icons?i=cisco" />
-
 <br><br>
 
 <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
@@ -87,43 +83,6 @@ Atualmente estou expandindo minha atuação para **Python, desenvolvimento, inte
 | Hardware & Software |        Security       |       Cisco       |    IA Generativa    |
 
 </div>
-
----
-
-# 🤖 IA & Automação
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1200&color=8A2BE2&center=true&vCenter=true&width=750&lines=De+problemas+reais+de+TI+para+soluções+inteligentes.;Python+%2B+APIs+%2B+IA+%3D+Automação+para+Service+Desk." alt="AI typing"/>
-
-</div>
-
-Estou explorando **Inteligência Artificial aplicada à área de TI**, principalmente em cenários onde automação pode reduzir tarefas repetitivas e auxiliar profissionais de suporte.
-
-Meu foco atual está em:
-
-```text
-                 PROBLEMA DE TI
-                       │
-                       ▼
-              ┌─────────────────┐
-              │     ANÁLISE      │
-              └────────┬────────┘
-                       │
-                       ▼
-                 PYTHON / API
-                       │
-                       ▼
-              ┌─────────────────┐
-              │       IA        │
-              └────────┬────────┘
-                       │
-                       ▼
-                 AUTOMAÇÃO
-                       │
-                       ▼
-              🚀 SOLUÇÃO DE TI
-```
 
 ---
 
@@ -254,35 +213,6 @@ Atuação em ambiente corporativo de grande porte, trabalhando com:
 → transformar experiência profissional + estudos + projetos em um portfólio forte
 ```
 
----
-
-# 🗺️ Roadmap
-
-<div align="center">
-
-```text
-     🖥️ SUPORTE N2
-           │
-           ▼
-     🌐 INFRAESTRUTURA
-           │
-           ▼
-     ☁️ MICROSOFT 365
-           │
-           ▼
-       🐍 PYTHON
-           │
-           ▼
-       🔌 APIs
-           │
-           ▼
-        🤖 IA
-           │
-           ▼
-      ⚙️ AUTOMAÇÃO
-           │
-           ▼
-   🚀 AI + IT OPERATIONS
 ```
 
 </div>

@@ -139,3 +139,19 @@
 ⚙️ AUTOMATION MISSION → automatizar tarefas repetitivas e escalar produtividade
 🔌 API MISSION → integrar sistemas, ITSM (ServiceNow) e modelos de IA através de APIs
 📈 CAREER BUILDING → transformar experiência prática + estudos num portfólio de peso
+
+## 🤝 Vamos conectar
+
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/robsongjunior">
+    <img src="https://img.shields.io/badge/LINKEDIN-ROBSON_JUNIOR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:robson.lost@outlook.com">
+    <img src="https://img.shields.io/badge/E--MAIL-CONTATO-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RobsonLost">
+    <img src="https://img.shields.io/badge/GITHUB-ROBSONLOST-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+</div>

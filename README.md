@@ -130,18 +130,6 @@
 
 <hr>
 
-## 🛰️ Tech Mission
-
-```text
-☁️ CLOUD MISSION → aprofundar Microsoft 365, Azure e tecnologias de infraestrutura
-💻 SOFTWARE MISSION → evoluir em Python e criar aplicações úteis para problemas reais
-🤖 AI MISSION → explorar Inteligência Artificial aplicada ao suporte e operações de TI
-⚙️ AUTOMATION MISSION → automatizar tarefas repetitivas e escalar produtividade
-🔌 API MISSION → integrar sistemas, ITSM (ServiceNow) e modelos de IA através de APIs
-📈 CAREER BUILDING → transformar experiência prática + estudos num portfólio de peso
-
-```
-
 ## 🤝 Vamos conectar
 
 <div align="center">

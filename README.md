@@ -76,13 +76,6 @@ Classificador de chamados construído com Python e uma API de LLM, treinado sobr
 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Anhanguera *(em andamento)*
 Foco atual em desenvolvimento, Python, APIs e Inteligência Artificial.
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RobsonLost&show_icons=true&theme=dark&hide_border=true&title_color=FFE81F&icon_color=FFE81F&text_color=c9d1d9&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonLost&layout=compact&theme=dark&hide_border=true&title_color=FFE81F&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
 ## 🎯 Objetivo Profissional
 
 Buscando oportunidades como **Analista de Suporte N2 Pleno/Sênior**, com interesse crescente em posições que unam TI e IA — **AI Support · AI Operations · AI Agents · Python · Automação**.

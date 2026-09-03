@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Robson Junior
+# Olá, eu sou Robson Junior
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FFE81F&center=true&vCenter=true&width=600&lines=IT+Support+N2+%7C+8%2B+anos+de+experi%C3%AAncia;Em+transi%C3%A7%C3%A3o+para+IA+%26+Automa%C3%A7%C3%A3o;Python+%7C+LLMs+%7C+AI+Agents+%7C+RAG" alt="Typing SVG" />
 

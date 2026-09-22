@@ -1,90 +1,255 @@
-<div align="center">
-
 # Olá, eu sou Robson Junior
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FFE81F&center=true&vCenter=true&width=600&lines=IT+Support+N2+%7C+8%2B+anos+de+experi%C3%AAncia;Em+transi%C3%A7%C3%A3o+para+IA+%26+Automa%C3%A7%C3%A3o;Python+%7C+LLMs+%7C+AI+Agents+%7C+RAG" alt="Typing SVG" />
+### Tecnologia • Desenvolvimento • Inteligência Artificial
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robsongjunior/)
-[![Localização](https://img.shields.io/badge/Rio%20de%20Janeiro%2C%20Brasil-000000?style=flat-square&logo=googlemaps&logoColor=FFE81F)](#)
-![Status](https://img.shields.io/badge/Aberto%20a%20oportunidades-success?style=flat-square)
+Profissional de TI com **8+ anos de experiência** em Suporte Técnico N2, Infraestrutura e ambientes corporativos.
 
-</div>
+Atualmente cursando **Análise e Desenvolvimento de Sistemas**, ampliando minha experiência em TI para desenvolvimento de software, Inteligência Artificial, automação e análise de dados.
+
+Este perfil reúne **projetos acadêmicos, projetos pessoais, estudos e experimentos práticos** desenvolvidos ao longo dessa jornada.
 
 ---
 
-## 💡 Sobre mim
+## Sobre mim
 
-Profissional de TI com mais de 8 anos de experiência em **Suporte Técnico N2, Infraestrutura e ambientes corporativos**, hoje direcionando essa base sólida para **Inteligência Artificial Generativa, Automação e desenvolvimento de aplicações com LLMs**.
+Minha experiência profissional em suporte e infraestrutura me proporcionou contato direto com ambientes corporativos, resolução de problemas, gestão de incidentes e tecnologias Microsoft.
 
-Minha vivência em suporte me dá uma visão prática de como a tecnologia resolve problemas reais — é essa visão que aplico nos projetos que venho construindo com Python, APIs REST, Prompt Engineering, RAG e AI Agents.
+Atualmente estou direcionando essa experiência para o desenvolvimento de soluções utilizando **Python, APIs, Inteligência Artificial Generativa e automação**.
 
-## 🤖 Em aprendizado
+Meu objetivo é unir a experiência prática adquirida em TI com os conhecimentos de desenvolvimento e IA que venho construindo durante a graduação.
 
-`Python` `IA Generativa` `LLMs` `APIs REST` `AI Agents` `RAG` `Automação de processos` `Cloud & AI`
+---
 
-## 🚀 Projetos
+# Tecnologias e conhecimentos
 
-### 🎧 AI Service Desk Assistant
-Aplicação experimental de IA Generativa para Service Desk, em Python. Explora como LLMs e agentes de IA podem apoiar profissionais de suporte na interpretação de chamados, troubleshooting e automação de tarefas.
+## Desenvolvimento
 
-`Python` `LLM` `REST API` `Prompt Engineering` `AI Agents`
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-👉 **[Ver repositório](https://github.com/RobsonLost/assistente-ia-service-desk)**
+## Inteligência Artificial
 
-### 🎫 Classificador de Incidentes ServiceNow `em desenvolvimento`
-Classificador de chamados construído com Python e uma API de LLM, treinado sobre um recorte real (e anonimizado) de mais de 500 incidentes de suporte N2 — aplicando IA a um problema que eu resolvia manualmente todos os dias.
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-5B5BD6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Agents-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-4A4A4A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge"/>
+</p>
 
-`Python` `LLM API` `ServiceNow` `Processamento de Dados`
+## Microsoft e Cloud
 
-## 🛠️ Habilidades Técnicas
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Active_Directory-003B57?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
 
-**IA & Automação**
+## Infraestrutura e ITSM
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1a1a1a?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI_Agents-1a1a1a?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-1a1a1a?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Networking-1679A7?style=for-the-badge"/>
+</p>
 
-**Cloud & Microsoft**
+## Dados
 
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft365&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square)
-![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square)
-![Defender](https://img.shields.io/badge/Microsoft_Defender-0078D4?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
-**IT & Infraestrutura**
+> As tecnologias acima representam uma combinação de experiência profissional, conhecimentos práticos e tecnologias estudadas durante minha formação.
 
-![ServiceNow](https://img.shields.io/badge/ServiceNow-00C7D4?style=flat-square&logo=servicenow&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-1a1a1a?style=flat-square)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Redes_(VLAN/DHCP/DNS)-1a1a1a?style=flat-square)
+---
 
-**Dados**
+# Projetos em destaque
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+## AI Service Desk Assistant
 
-## 💼 Experiência Profissional
+Projeto pessoal desenvolvido em **Python** para estudar a aplicação de Inteligência Artificial Generativa em ambientes de Service Desk.
 
-8+ anos atuando em Suporte Técnico N2 em ambientes corporativos de grande porte, atualmente na **TIVIT** (Rio de Janeiro), com histórico sólido em gestão de incidentes, Microsoft 365/Entra ID/Intune, Active Directory e infraestrutura de redes — aplicando essa bagagem para explorar automação e IA voltadas a operações de TI.
+A aplicação explora como LLMs e agentes de IA podem auxiliar no primeiro atendimento, interpretação de solicitações, troubleshooting e direcionamento de problemas técnicos.
 
-## 🎓 Formação
+### Conceitos explorados
 
-**Tecnólogo em Análise e Desenvolvimento de Sistemas** — Anhanguera *(em andamento)*
-Foco atual em desenvolvimento, Python, APIs e Inteligência Artificial.
+* Python
+* APIs
+* LLMs
+* Prompt Engineering
+* AI Agents
+* RAG
+* Automação
+* Arquitetura de agentes
 
-## 🎯 Objetivo Profissional
+---
 
-Buscando oportunidades como **Analista de Suporte N2 Pleno/Sênior**, com interesse crescente em posições que unam TI e IA — **AI Support · AI Operations · AI Agents · Python · Automação**.
+## Classificador de Incidentes ServiceNow
 
-## 📫 Vamos conectar?
+Projeto experimental voltado à aplicação de IA na classificação e análise de chamados de Service Desk.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robsongjunior/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RobsonLost)
+A ideia surgiu a partir de situações observadas na rotina de suporte técnico, buscando explorar como modelos de linguagem podem auxiliar na organização e classificação de incidentes.
 
-<img src="https://komarev.com/ghpvc/?username=RobsonLost&color=FFE81F&style=flat-square&label=Visualizações+do+perfil" />
+### Conceitos explorados
 
-</div>
+* Python
+* LLM APIs
+* Processamento de dados
+* Classificação de incidentes
+* ServiceNow
+* Inteligência Artificial aplicada a ITSM
+
+**Status:** Em desenvolvimento
+
+---
+
+# Projetos acadêmicos
+
+## ADS — Registro Acadêmico
+
+Repositório dedicado à minha graduação em **Análise e Desenvolvimento de Sistemas**.
+
+Nele reúno:
+
+* Anotações
+* Resumos
+* Exercícios
+* Códigos
+* Projetos acadêmicos
+* Materiais de estudo
+* Conceitos aprendidos durante as disciplinas
+
+O objetivo é manter um histórico organizado da minha evolução acadêmica e técnica.
+
+### Atualmente estudando
+
+**1º semestre — Concluído**
+
+* Arquitetura e Organização de Computadores
+* Segurança e Auditoria de Sistemas
+* Fundamentos da Inteligência Artificial Aplicada
+* Redes de Computadores
+* Interface e Usabilidade
+
+**2º semestre — Em andamento**
+
+* Engenharia de Software
+* Projeto de Software
+* Análise e Modelagem de Sistemas
+* Linguagem de Programação
+* Projeto Integrado Síntese — ADS
+
+O repositório acadêmico é atualizado continuamente conforme avanço na graduação.
+
+---
+
+# Experiência profissional
+
+### Técnico de Suporte N2
+
+**TIVIT**
+
+Atuação em ambiente corporativo, com suporte técnico N1/N2, troubleshooting, gestão de incidentes e administração de tecnologias Microsoft.
+
+### Principais conhecimentos aplicados
+
+* Microsoft 365
+* Microsoft Entra ID
+* Microsoft Intune
+* Active Directory
+* Windows 10/11
+* ServiceNow
+* SAP
+* Redes de computadores
+* DNS / DHCP / VLAN
+* Troubleshooting de hardware e software
+* Gestão de incidentes
+* Análise de causa
+* Atendimento remoto e presencial
+* Cumprimento de SLA
+
+A experiência profissional em suporte também serve como base para meus projetos de automação e Inteligência Artificial aplicada a operações de TI.
+
+---
+
+# Formação
+
+### Análise e Desenvolvimento de Sistemas
+
+**Anhanguera — EAD**
+
+**Em andamento**
+
+Áreas de estudo:
+
+* Desenvolvimento de Software
+* Programação
+* Engenharia de Software
+* Análise e Modelagem de Sistemas
+* Banco de Dados
+* Redes
+* Segurança da Informação
+* Inteligência Artificial
+* Interface e Usabilidade
+
+---
+
+# Atualmente
+
+Estou aprofundando meus conhecimentos em:
+
+**Desenvolvimento → Python e Java**
+
+**IA → LLMs, AI Agents, RAG e APIs**
+
+**Software → Engenharia de Software e desenvolvimento de aplicações**
+
+**Dados → SQL e análise de dados**
+
+**Cloud → Microsoft Azure e serviços em nuvem**
+
+---
+
+# GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RobsonLost&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonLost&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+# Vamos conectar?
+
+<p>
+  <a href="https://www.linkedin.com/in/robsongjunior/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/RobsonLost">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Construindo conhecimento através de estudos, projetos e prática.</i>
+</p>
+
+---
+
+<p align="center">
+  <i>Construindo conhecimento através de estudos, projetos e prática.</i>
+</p>
